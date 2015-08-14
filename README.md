@@ -1,1 +1,1 @@
-# curly-guacamole
+<p>Наш С++ проект</p>
